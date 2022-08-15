@@ -4,7 +4,7 @@
 </h1>
 
 - 🔭 I’m currently working on [movies-explorer-frontend](https://github.com/irina-tim/movies-explorer-frontend)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Vue
 
 <p align="center">
   <a href="https://codepen.io/Irina-T"><img src="./icons/codepen.png"></a>
