@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- 🔭 I’m currently working on [react-mesto-auth](https://github.com/irina-tim/react-mesto-auth)
+- 🔭 I’m currently working on [movies-explorer-frontend](https://github.com/irina-tim/movies-explorer-frontend)
 - 🌱 I’m currently learning React
 
 <p align="center">
